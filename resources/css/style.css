@@ -29,3 +29,8 @@ p {
   font-family: verdana;
   font-size: 21px
 }
+
+.footer {
+  color: grey;
+  text-align: right;
+}
